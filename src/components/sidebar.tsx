@@ -88,7 +88,7 @@ const SideBar = () => {
               <Box
                 className={cn(
                   "w-[48px] h-[48px] flex justify-center items-center",
-                  pathname === item.link && "rounded-xl bg-[#003FAD]"
+                  pathname.startsWith(item.link) && "rounded-xl bg-[#003FAD]"
                 )}
               >
                 <img
