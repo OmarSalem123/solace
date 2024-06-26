@@ -1,16 +1,16 @@
 # Getting Started with Download Client
 
-1- git clone https://github.com/OmarSalem123/solace.git
-2- cd solace
-3- npm install
-4- npm start
+- git clone https://github.com/OmarSalem123/solace.git
+- cd solace
+- npm install
+- npm start
 
 ## Download Server
 
-1- git clone https://github.com/OmarSalem123/solace.git
-2- cd solace
-3- npm install
-4- npm run start:dev
+- git clone https://github.com/OmarSalem123/server-solace.git
+- cd solace
+- npm install
+- npm run start:dev
 
 ## Learn more about project
 
