@@ -3,7 +3,6 @@ import { Link, useLocation } from "react-router-dom";
 import { Box } from "@mui/material";
 import { cn } from "../utils";
 
-//TODO: Create Constants forlder
 const navLinks = [
   {
     name: "Dashboard",
