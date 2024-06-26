@@ -88,7 +88,8 @@ const BasicInfo: React.FC = () => {
                 {...register("nationalIdNumber")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -97,7 +98,8 @@ const BasicInfo: React.FC = () => {
                 {...register("nationalIdExpiringDate")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -106,7 +108,8 @@ const BasicInfo: React.FC = () => {
                 value="Mr."
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div></div>
@@ -118,7 +121,8 @@ const BasicInfo: React.FC = () => {
                 {...register("firstName")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -127,7 +131,8 @@ const BasicInfo: React.FC = () => {
                 {...register("fatherName")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -136,7 +141,8 @@ const BasicInfo: React.FC = () => {
                 {...register("grandfatherName")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -146,7 +152,8 @@ const BasicInfo: React.FC = () => {
                 value="Smith"
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
           </div>
@@ -157,7 +164,8 @@ const BasicInfo: React.FC = () => {
                 {...register("firstNameAr")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -166,7 +174,8 @@ const BasicInfo: React.FC = () => {
                 {...register("fatherNameAr")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -175,7 +184,8 @@ const BasicInfo: React.FC = () => {
                 {...register("grandfatherNameAr")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -184,7 +194,8 @@ const BasicInfo: React.FC = () => {
                 {...register("familyNameAr")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
           </div>
@@ -195,7 +206,8 @@ const BasicInfo: React.FC = () => {
                 value="01 / 04 / 1980"
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -204,7 +216,8 @@ const BasicInfo: React.FC = () => {
                 value="Male"
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -213,7 +226,8 @@ const BasicInfo: React.FC = () => {
                 value="Egyptian "
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -222,7 +236,8 @@ const BasicInfo: React.FC = () => {
                 value="-"
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
           </div>
@@ -233,7 +248,8 @@ const BasicInfo: React.FC = () => {
                 value="A135464"
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -242,7 +258,8 @@ const BasicInfo: React.FC = () => {
                 value="01 / 04 / 1980"
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -251,7 +268,8 @@ const BasicInfo: React.FC = () => {
                 {...register("nationalIdExpiringDate")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div></div>
@@ -263,7 +281,8 @@ const BasicInfo: React.FC = () => {
                 {...register("maritalStatus")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div>
@@ -272,7 +291,8 @@ const BasicInfo: React.FC = () => {
                 {...register("dependants")}
                 variant="plain"
                 fullWidth
-                className="font-bold text-[16px]"
+                className="font-bold text-[16px] !text-black"
+                disabled
               />
             </div>
             <div></div>
